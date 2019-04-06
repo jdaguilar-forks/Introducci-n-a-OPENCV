@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ -ggdb Ejemplo_de_Transformaciones_geometricas_con_las_OpenCV.cpp -o Ejemplo_de_Transformaciones_geometricas_con_las_OpenCV `pkg-config --cflags --libs opencv`

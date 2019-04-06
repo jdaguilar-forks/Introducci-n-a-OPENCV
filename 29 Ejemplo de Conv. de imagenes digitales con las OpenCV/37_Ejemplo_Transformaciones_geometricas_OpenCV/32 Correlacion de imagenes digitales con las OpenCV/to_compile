@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ -ggdb Correlacion_de_imagenes_digitales_con_las_OpenCV.cpp -o Correlacion_de_imagenes_digitales_con_las_OpenCV `pkg-config --cflags --libs opencv`
